@@ -1,4 +1,4 @@
-package com.learning.firstProject.model;
+package com.learning.springProject.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

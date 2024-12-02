@@ -1,4 +1,4 @@
-package com.learning.firstProject.exceptions;
+package com.learning.springProject.exceptions;
 
 public class ClientException extends RuntimeException{
 
