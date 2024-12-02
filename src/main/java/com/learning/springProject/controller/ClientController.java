@@ -1,7 +1,7 @@
-package com.learning.firstProject.controller;
+package com.learning.springProject.controller;
 
-import com.learning.firstProject.model.Client;
-import com.learning.firstProject.service.ClientService;
+import com.learning.springProject.model.Client;
+import com.learning.springProject.service.ClientService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

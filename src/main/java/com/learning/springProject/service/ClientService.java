@@ -1,8 +1,8 @@
-package com.learning.firstProject.service;
+package com.learning.springProject.service;
 
-import com.learning.firstProject.model.Client;
-import com.learning.firstProject.repository.ClientRepository;
-import com.learning.firstProject.exceptions.ClientException;
+import com.learning.springProject.model.Client;
+import com.learning.springProject.repository.ClientRepository;
+import com.learning.springProject.exceptions.ClientException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
